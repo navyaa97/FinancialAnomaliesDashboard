@@ -2,6 +2,7 @@
 
 ## 📝 Introduction
 This project is a **Tableau dashboard** designed to detect **financial anomalies and potential fraud** in banking transactions. Using data visualization techniques, the dashboard helps identify unusual patterns such as **high-risk transactions, multiple IP usage, self-transactions, and outliers in transaction amounts**.
+The Link to my dashboard is here : https://public.tableau.com/app/profile/navya.bulusu3808/viz/FinancialAnomalies/Dashboard1?publish=yes
 
 ## 🚀 Project Overview
 ### **📂 Dataset**
